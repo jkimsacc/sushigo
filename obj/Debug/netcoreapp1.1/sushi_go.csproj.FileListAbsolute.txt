@@ -1,0 +1,8 @@
+/Users/joseph/Desktop/C#/sushi_go/bin/Debug/netcoreapp1.1/sushi_go.deps.json
+/Users/joseph/Desktop/C#/sushi_go/bin/Debug/netcoreapp1.1/sushi_go.runtimeconfig.json
+/Users/joseph/Desktop/C#/sushi_go/bin/Debug/netcoreapp1.1/sushi_go.runtimeconfig.dev.json
+/Users/joseph/Desktop/C#/sushi_go/bin/Debug/netcoreapp1.1/sushi_go.dll
+/Users/joseph/Desktop/C#/sushi_go/bin/Debug/netcoreapp1.1/sushi_go.pdb
+/Users/joseph/Desktop/C#/sushi_go/obj/Debug/netcoreapp1.1/sushi_go.AssemblyInfo.cs
+/Users/joseph/Desktop/C#/sushi_go/obj/Debug/netcoreapp1.1/sushi_go.dll
+/Users/joseph/Desktop/C#/sushi_go/obj/Debug/netcoreapp1.1/sushi_go.pdb
