@@ -6,10 +6,10 @@ namespace sushi_go
     {
         static void Main(string[] args)
         {
-            Deck newDeck = new Deck();
-            for(int i = 0; i <  newDeck.cards.Count; i++){
-                System.Console.WriteLine(newDeck.cards[i]);
-            }
+            Deck deck = new Deck();
+            // System.Console.WriteLine(deck.cards.Count);
+            Game newGame = new Game();
+            newGame.startGame();
         }
     }
 }
